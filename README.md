@@ -2,6 +2,6 @@
 
 proyecto de prueba para la materia de desarrollo web
 
-##hacerca del autor
+##acerca del autor
 
 Perez Lara Yuliza
